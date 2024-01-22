@@ -5,9 +5,12 @@ let chemistry = document.querySelector(".chemistry")
 let subjectHead = document.querySelector("#subject-head")
 let modal = document.querySelector("#message")
 let numberOfChapterCom = document.querySelector(".number")
-
-
-
+let chapterToComplete  = document.querySelector(".goal-chapter")
+let chapterToRevise  = document.querySelector(".chapter-revise")
+let chapterQuestion  = document.querySelector(".chapter-question")
+let date = document.querySelector(".date")
+let totalChapterCompleted = document.querySelector(".number")
+let chapterCompletedBtn = document.querySelector(".today-goal-container input")
 
 let lecName = []
 let links = []
@@ -21,28 +24,56 @@ let cheLink = []
 let chelecName = []
 let cheChaptersName = []
 
+
+// Get today's date
+const today = new Date();
+const months = [
+  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+  'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+];
+
+const formattedDate = `${today.getDate()} ${months[today.getMonth()]} ${today.getFullYear()}`;
+
+// Display the formatted date
+date.innerHTML=formattedDate
+
+chapterToRevise.innerHTML= "Vector And Basic Maths"
+chapterToComplete.innerHTML = "Mole Concept"
+chapterQuestion.innerHTML= "Vector And Basic Maths"
+let index = 2 // 0 -M , 1 - P, 2 - C
+
+
+
+
+
 function changeIndex(i){
   subIndex = i
   if(i == 0)
   {
+    totalChapterCompleted.innerHTML= "00"
     subjectHead.innerHTML="Maths"
     maths.style.display = "flex"
     physics.style.display = "none"
     chemistry.style.display = "none"
+    chapterCompletedBtn.checked = false
   }
   else if (i == 1)
   {
+    totalChapterCompleted.innerHTML = "00"
     subjectHead.innerHTML="Physics"
     maths.style.display = "none"
     physics.style.display = "flex"
     chemistry.style.display = "none"
+    chapterCompletedBtn.checked = false
   }
   else if (i == 2)
   {
+    totalChapterCompleted.innerHTML="00"
     subjectHead.innerHTML="Chemistry"
     maths.style.display = "none"
     physics.style.display = "none"
     chemistry.style.display = "flex"
+    chapterCompletedBtn.checked =false
   }
 }
 fetch("math_link.txt").then(response => response.text().then(data =>{
@@ -330,3 +361,24 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
 }
 
 }))
+
+
+chapterCompletedBtn.addEventListener("change",chapterCompleted)
+
+
+function chapterCompleted() {
+  if (chapterCompletedBtn.checked) {
+    const chaptersName = chapterContainer[index].querySelectorAll(".chapter-name");
+
+    chaptersName.forEach(function (chapter, i) {
+      var chapterName = chapter.textContent.toLowerCase();
+      var searchChapter = chapterToComplete.textContent.toLowerCase();
+      var storageKey = `chapter_${index}_${i}_completed`;
+
+      if (chapterName.includes(searchChapter)) {
+        var chapterDiv = chapterContainer[index].querySelectorAll(".front")[i];
+        chapterDiv.style.background = "green"
+      }
+    });
+  }
+}
