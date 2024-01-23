@@ -37,11 +37,11 @@ const formattedDate = `${today.getDate()} ${months[today.getMonth()]} ${today.ge
 // Display the formatted date
 date.innerHTML=formattedDate
 
-chapterToRevise.innerHTML= "Vector And Basic Maths"
-chapterToComplete.innerHTML = "Mole Concept"
-chapterQuestion.innerHTML= "Vector And Basic Maths"
-let index = 2 // 0 -M , 1 - P, 2 - C
-
+chapterToRevise.innerHTML= "Revise completed chapters"
+chapterToComplete.innerHTML = "Basic Mathematics"
+chapterQuestion.innerHTML= "DPP Mole concept"
+let index = 0 // 0 -M , 1 - P, 2 - C
+totalChapterCompleted.innerHTML= "01"
 
 
 
@@ -59,7 +59,7 @@ function changeIndex(i){
   }
   else if (i == 1)
   {
-    totalChapterCompleted.innerHTML = "00"
+    totalChapterCompleted.innerHTML = "01"
     subjectHead.innerHTML="Physics"
     maths.style.display = "none"
     physics.style.display = "flex"
@@ -68,7 +68,7 @@ function changeIndex(i){
   }
   else if (i == 2)
   {
-    totalChapterCompleted.innerHTML="00"
+    totalChapterCompleted.innerHTML="01"
     subjectHead.innerHTML="Chemistry"
     maths.style.display = "none"
     physics.style.display = "none"
