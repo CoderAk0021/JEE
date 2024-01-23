@@ -5,12 +5,24 @@ let chemistry = document.querySelector(".chemistry")
 let subjectHead = document.querySelector("#subject-head")
 let modal = document.querySelector("#message")
 let numberOfChapterCom = document.querySelector(".number")
-let chapterToComplete  = document.querySelector(".goal-chapter")
-let chapterToRevise  = document.querySelector(".chapter-revise")
-let chapterQuestion  = document.querySelector(".chapter-question")
-let date = document.querySelector(".date")
 let totalChapterCompleted = document.querySelector(".number")
-let chapterCompletedBtn = document.querySelector(".today-goal-container input")
+let goalTable = document.querySelector("table")
+let date = document.querySelector(".date")
+let progressBar = document.querySelector(".inside")
+let progressPercentage = document.querySelector(".percentage")
+
+let goals =["Learn Completed Chapter","Solve DPP Basic Mathematics","Solve Questions from completed chapter","Complete Motion in straight Line"]
+
+
+goals.forEach((goal,i) =>{
+   let html = ` 
+            <tr>
+             <td>${i + 1}</td>
+             <td>${goal}</td>
+             <td><input id=${i} onchange="increaseProgress(this)"type="checkbox"></input>
+            </tr>`
+   goalTable.insertAdjacentHTML("beforeend",html)
+})
 
 let lecName = []
 let links = []
@@ -23,7 +35,9 @@ let subIndex = 1
 let cheLink = []
 let chelecName = []
 let cheChaptersName = []
-
+let progressPer = 0
+let percentage 
+let checked = 0
 
 // Get today's date
 const today = new Date();
@@ -36,26 +50,95 @@ const formattedDate = `${today.getDate()} ${months[today.getMonth()]} ${today.ge
 
 // Display the formatted date
 date.innerHTML=formattedDate
-
-chapterToRevise.innerHTML= "Revise completed chapters"
-chapterToComplete.innerHTML = "Basic Mathematics"
-chapterQuestion.innerHTML= "DPP Mole concept"
 let index = 0 // 0 -M , 1 - P, 2 - C
 totalChapterCompleted.innerHTML= "01"
 
 
+
+function increaseProgress(button)
+{
+   const totalGoals = goals.length
+   const unitPer = 100 / totalGoals
+  
+   saveCheckboxStates(button)
+  
+  if(button.checked)
+  {
+    percentage += unitPer
+    progressBar.style.width = percentage + "%";
+    percentNumber = Math.round(percentage)
+    progressPercentage.innerHTML = (percentNumber > 9) ? percentNumber + "%": "0" + percentNumber+ "%"
+    
+  }
+  else{
+    percentage -= unitPer
+    percentNumber = Math.round(percentage)
+    progressPercentage.innerHTML = (percentNumber > 9) ? percentNumber + "%": "0" + percentNumber+ "%"
+    progressBar.style.width = percentage + "%";
+  }
+  
+}
+
+    const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+
+
+
+
+function saveCheckboxStates() {
+    const checkboxStates = [];
+
+    checkboxes.forEach((checkbox) => {
+        checkboxStates.push({ id: checkbox.id, checked: checkbox.checked });
+    });
+
+    localStorage.setItem('checkboxStates', JSON.stringify(checkboxStates));
+    localStorage.setItem('lastModifiedDate',new Date().toDateString());
+}
+
+function retrieveCheckboxStates() {
+    const storedCheckboxStates = JSON.parse(localStorage.getItem('checkboxStates'));
+    const lastModifiedDate = localStorage.getItem('lastModifiedDate');
+
+
+    if (lastModifiedDate !== new Date().toDateString()) {
+        localStorage.clear();
+        }
+    else if (storedCheckboxStates) {
+        checkboxes.forEach((checkbox) => {
+            const storedCheckbox = storedCheckboxStates.find((item) => item.id === checkbox.id);
+            
+            if (storedCheckbox.checked) {
+                checkbox.checked = storedCheckbox.checked;
+                checked++;
+            }
+        });
+        percentage = (checked/goals.length)* 100
+        
+        progressBar.style.width = percentage + "%"
+        percentNumber = Math.round(percentage)
+        progressPercentage.innerHTML = (percentNumber > 9) ? percentNumber + "%": "0" + percentNumber+ "%"
+    }
+}
+
+checkboxes.forEach((checkbox) => {
+    checkbox.addEventListener('change', () => {
+        saveCheckboxStates();
+    });
+});
+
+retrieveCheckboxStates();
 
 
 function changeIndex(i){
   subIndex = i
   if(i == 0)
   {
-    totalChapterCompleted.innerHTML= "00"
+    totalChapterCompleted.innerHTML= "01"
     subjectHead.innerHTML="Maths"
     maths.style.display = "flex"
     physics.style.display = "none"
     chemistry.style.display = "none"
-    chapterCompletedBtn.checked = false
+    
   }
   else if (i == 1)
   {
@@ -64,7 +147,7 @@ function changeIndex(i){
     maths.style.display = "none"
     physics.style.display = "flex"
     chemistry.style.display = "none"
-    chapterCompletedBtn.checked = false
+    
   }
   else if (i == 2)
   {
@@ -73,7 +156,7 @@ function changeIndex(i){
     maths.style.display = "none"
     physics.style.display = "none"
     chemistry.style.display = "flex"
-    chapterCompletedBtn.checked =false
+    
   }
 }
 fetch("math_link.txt").then(response => response.text().then(data =>{
@@ -363,22 +446,3 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
 }))
 
 
-chapterCompletedBtn.addEventListener("change",chapterCompleted)
-
-
-function chapterCompleted() {
-  if (chapterCompletedBtn.checked) {
-    const chaptersName = chapterContainer[index].querySelectorAll(".chapter-name");
-
-    chaptersName.forEach(function (chapter, i) {
-      var chapterName = chapter.textContent.toLowerCase();
-      var searchChapter = chapterToComplete.textContent.toLowerCase();
-      var storageKey = `chapter_${index}_${i}_completed`;
-
-      if (chapterName.includes(searchChapter)) {
-        var chapterDiv = chapterContainer[index].querySelectorAll(".front")[i];
-        chapterDiv.style.background = "green"
-      }
-    });
-  }
-}
