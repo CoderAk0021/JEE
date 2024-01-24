@@ -4,14 +4,35 @@ let physics = document.querySelector(".physics")
 let chemistry = document.querySelector(".chemistry")
 let subjectHead = document.querySelector("#subject-head")
 let modal = document.querySelector("#message")
-let numberOfChapterCom = document.querySelector(".number")
-let totalChapterCompleted = document.querySelector(".number")
 let goalTable = document.querySelector("table")
 let date = document.querySelector(".date")
 let progressBar = document.querySelector(".inside")
 let progressPercentage = document.querySelector(".percentage")
+let mathsBtn = document.querySelectorAll("#subjectProgress div")[1]
+let phyBtn = document.querySelectorAll("#subjectProgress div")[0]
+let cheBtn = document.querySelectorAll("#subjectProgress div")[2]
+
+phyBtn.style.backgroundColor="#A247FF"
+phyBtn.style.color="#fff"
+
 
 let goals =["Learn Completed Chapter","Solve DPP Basic Mathematics","Solve Questions from completed chapter","Complete Motion in straight Line"]
+
+const physicsData = {
+  total: 31,
+  completed: 1,
+};
+
+const chemistryData = {
+  total: 24,
+  completed: 1,
+};
+
+const mathsData = {
+  total: 25,
+  completed: 1,
+};
+
 
 
 goals.forEach((goal,i) =>{
@@ -51,7 +72,6 @@ const formattedDate = `${today.getDate()} ${months[today.getMonth()]} ${today.ge
 // Display the formatted date
 date.innerHTML=formattedDate
 let index = 0 // 0 -M , 1 - P, 2 - C
-totalChapterCompleted.innerHTML= "01"
 
 
 
@@ -68,7 +88,6 @@ function increaseProgress(button)
     progressBar.style.width = percentage + "%";
     percentNumber = Math.round(percentage)
     progressPercentage.innerHTML = (percentNumber > 9) ? percentNumber + "%": "0" + percentNumber+ "%"
-    
   }
   else{
     percentage -= unitPer
@@ -133,7 +152,12 @@ function changeIndex(i){
   subIndex = i
   if(i == 0)
   {
-    totalChapterCompleted.innerHTML= "01"
+    phyBtn.style.backgroundColor = "#505050"
+    phyBtn.style.color = "#878788"
+    cheBtn.style.backgroundColor = "#505050"
+    cheBtn.style.color = "#878788"
+    mathsBtn.style.backgroundColor = "#A247FF"
+    mathsBtn.style.color = "#fff"
     subjectHead.innerHTML="Maths"
     maths.style.display = "flex"
     physics.style.display = "none"
@@ -142,7 +166,12 @@ function changeIndex(i){
   }
   else if (i == 1)
   {
-    totalChapterCompleted.innerHTML = "01"
+    phyBtn.style.backgroundColor = "#A247FF"
+    phyBtn.style.color = "#fff"
+    cheBtn.style.backgroundColor = "#505050"
+    cheBtn.style.color = "#878788"
+    mathsBtn.style.backgroundColor = "#505050"
+    mathsBtn.style.color = "#878788"
     subjectHead.innerHTML="Physics"
     maths.style.display = "none"
     physics.style.display = "flex"
@@ -151,7 +180,12 @@ function changeIndex(i){
   }
   else if (i == 2)
   {
-    totalChapterCompleted.innerHTML="01"
+    phyBtn.style.backgroundColor = "#505050"
+    phyBtn.style.color = "#878788"
+    cheBtn.style.backgroundColor = "#A247FF"
+    cheBtn.style.color = "#fff"
+    mathsBtn.style.backgroundColor = "#505050"
+    mathsBtn.style.color = "#878788"
     subjectHead.innerHTML="Chemistry"
     maths.style.display = "none"
     physics.style.display = "none"
@@ -446,3 +480,52 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
 }))
 
 
+
+// Update progress numbers
+document.getElementById('physicsCompleted').innerText = physicsData.completed;
+document.getElementById('physicsTotal').innerText = physicsData.total;
+document.getElementById('mathsCompleted').innerText = mathsData.completed;
+document.getElementById('mathsTotal').innerText = mathsData.total;
+document.getElementById('chemistryCompleted').innerText = chemistryData.completed;
+document.getElementById('chemistryTotal').innerText = chemistryData.total;
+
+
+
+
+const ctx = document.getElementById('subjectChart').getContext('2d');
+
+const subjectChart = new Chart(ctx, {
+  type: 'bar',
+  data: {
+    labels: ['Phy', 'Che', 'Math'],
+    datasets: [{
+      label: 'Completed',
+      data: [physicsData.completed, chemistryData.completed, mathsData.completed],
+      backgroundColor: ['#A247FF', '#A247FF', '#A247FF'], // Green color for completed chapters
+        }, {
+      label: 'Remaining',
+      data: [
+                physicsData.total - physicsData.completed,
+                chemistryData.total - chemistryData.completed,
+                mathsData.total - mathsData.completed,
+            ],
+      backgroundColor: ['#fff', '#fff', '#fff'], // Yellow color for remaining chapters
+        }],
+  },
+  options: {
+    responsive: false,
+    maintainAspectRatio: false,
+    legend: {
+      display: false,
+      position: 'bottom',
+    },
+    scales: {
+      x: {
+        stacked: true,
+      },
+      y: {
+        stacked: true,
+      },
+    },
+  },
+});

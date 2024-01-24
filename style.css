@@ -10,34 +10,29 @@ body{
   padding:20px;
   background:#222222;
 }
-header .dashboard {
-   display:grid;
-   grid-template-columns: 40% 60%;
-   align-items: center;
-   width:100%;
-   padding:10px;
-   
-   border-radius:8px;
-   border-left:4px solid skyblue;
-   background:#171717;
-
-}
-.chapter-completed{
-  height:100px;
-  width:100%;
-  background:#1CFF051A;
-  border-radius:6px;
-  display:flex;
+#dashboard{
+  display:grid;
+  background:#000000;
+  grid-template-columns:auto auto;
   align-items: center;
-  flex-direction:column;
-  justify-content: center;
-  border:1px solid green;
+  padding:20px;
+  border-radius:10px;
 }
-.number{
+#subjectChart{
+}
+#subjectProgress{
+  display:flex;
+  gap:5px;
+  flex-direction:column;
   padding:10px;
-  color:#fff;
-  font-size:25px;
-  font-weight:600;
+  font-weight:500;
+  font-size:11px;
+  color:#878788;
+}
+#subjectProgress div{
+  padding:5px 8px;
+  background:#505050;
+  border-radius:5px;
 }
 .chapter-completed span:last-child{
   font-size:9px;
@@ -68,6 +63,7 @@ main{
   display:flex;
   flex-direction:column;
   gap:10px;
+  margin-bottom: 20px;
 }
 .maths,.physics,.chemistry{
   width:100%;
@@ -87,7 +83,6 @@ main{
   display:flex;
   flex-direction: column;
   gap:5px;
-  
 }
 .chapter{
   display:flex;
@@ -166,7 +161,7 @@ main > h2{
   flex-direction: column;
   margin: 20px 0;
   width:100%;
-  background:#171717;
+  background:black;
 }
 .time-management .head{
   width:100%;
@@ -224,7 +219,7 @@ th{
   align-items: center;
   justify-content: center;
   color:#fff;
-  background:#00BE1F;
+  background:#A247FF;
   font-size:10px;
   font-weight:600;
   border-radius:50%;
@@ -240,6 +235,6 @@ th{
   width:0%;
   height:3px;
   border-radius:10px;
-  background:#00BE1F;
+  background:#A247FF;
   transition: width 0.3s linear;
 }

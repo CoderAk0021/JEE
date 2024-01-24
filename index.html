@@ -1,75 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=360, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <title>Planner</title>
 </head>
+
 <body>
   <header>
-    <div class="dashboard">
-      <div class="chapter-completed">
-        <span class="number">00</span>
-        <span>chapters Completed </span>
+    <section id="dashboard">
+
+      <canvas id="subjectChart" width="150" height="150"></canvas>
+      <div id="subjectProgress">
+        <div onclick="changeIndex(1)" id="physicsProgress">Physics: <span id="physicsCompleted">0</span>/<span id="physicsTotal">10</span></div>
+        <div onclick="changeIndex(0)"id="mathsProgress">Maths: <span id="mathsCompleted">0</span>/<span id="mathsTotal">10</span></div>
+        <div onclick="changeIndex(2)"id="chemistryProgress">Chemistry: <span id="chemistryCompleted">0</span>/<span id="chemistryTotal">10</span></div>
       </div>
-      <div class="subject-select">
-        <label onclick= "changeIndex(1)" for="phy">
-          <input type="radio" name="subject" id="phy" checked>
-          Physics
-        </label>
-        <label onclick= "changeIndex(2)" for="che">
-          <input type="radio" name="subject" id="che">
-          Chemistry 
-        </label>
-        <label onclick= "changeIndex(0)" for="math">
-          <input type="radio" name="subject" id="math">
-          Maths
-        </label>
-      </div>
-    </div>
+    </section>
+
   </header>
-   <div class="time-management">
-     <div class="head">
-      <p>Today's Full Plan</p> 
+  <div class="time-management">
+    <div class="head">
+      <p>Today's Full Plan</p>
       <p class="date"></p>
-     </div>
-     <div class="planer-container">
-        <table>
-         <tr>
-           <th>S.No.</th>
-           <th>Goals</th>
-           <th>Mark</th>
-         </tr>
-       </table>
-     </div>
-     <div class="progress-bar-container">
-       <span class="percentage">00%</span>
-       <span class="progress-bar">
-         <span class="inside"></span>
-       </span>
-     </div>
-   </div>
+    </div>
+    <div class="planer-container">
+      <table>
+        <tr>
+          <th>S.No.</th>
+          <th>Goals</th>
+          <th>Mark</th>
+        </tr>
+      </table>
+    </div>
+    <div class="progress-bar-container">
+      <span class="percentage">00%</span>
+      <span class="progress-bar">
+        <span class="inside"></span>
+      </span>
+    </div>
+  </div>
   <main>
-   <h2 id="subject-head">Physics</h2>
+    <h2 id="subject-head">Physics</h2>
     <section class="maths">
       <div class="chapter-container">
-        
+
       </div>
     </section>
     <section class="physics">
       <div class="chapter-container">
-      
+
       </div>
     </section>
     <section class="chemistry">
       <div class="chapter-container">
-      
+
       </div>
     </section>
   </main>
   <div id="message"></div>
-  <script src="main.js">main.js</script>
+  <script src="main.js">
+  </script>
 </body>
+
 </html>
