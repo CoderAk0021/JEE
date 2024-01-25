@@ -16,11 +16,11 @@ phyBtn.style.backgroundColor="#A247FF"
 phyBtn.style.color="#fff"
 
 
-let goals =["Learn Completed Chapter","Solve DPP Basic Mathematics","Solve Questions from completed chapter","Complete Motion in straight Line"]
+let goals =["Learn Completed Chapter","Solve DPP Motion in 1D","Solve Questions from completed chapter","Complete Quadratic Equation "]
 
 const physicsData = {
   total: 31,
-  completed: 1,
+  completed: 2,
 };
 
 const chemistryData = {
