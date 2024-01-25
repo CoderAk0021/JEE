@@ -16,7 +16,7 @@ phyBtn.style.backgroundColor="#A247FF"
 phyBtn.style.color="#fff"
 
 
-let goals =["Learn Completed Chapter","Solve DPP Motion in 1D","Solve Questions from completed chapter","Complete Quadratic Equation "]
+let goals =["Revise Quadratic Equation","Solve DPP Quadratic Equation","Make Short notes of Vectors","Complete Redox Reaction","Learn and do 5 pyqs from each completed chapter"]
 
 const physicsData = {
   total: 31,
@@ -30,7 +30,7 @@ const chemistryData = {
 
 const mathsData = {
   total: 25,
-  completed: 1,
+  completed: 2,
 };
 
 
@@ -59,7 +59,9 @@ let cheChaptersName = []
 let progressPer = 0
 let percentage 
 let checked = 0
-
+let mathThumbnails = []
+let phyThumbnails = []
+let cheThumbnails = []
 // Get today's date
 const today = new Date();
 const months = [
@@ -201,12 +203,14 @@ fetch("math_link.txt").then(response => response.text().then(data =>{
     const topic = split[0]
     const videoLinkLine = split[1]
     const topicName = topic.split(":")[1]
-    
+    const thumbnailLinkLine = split[2]
+    const thumbnailLink = thumbnailLinkLine.match(/(https?:\/\/[^\s]+)/)[0]
     const link = videoLinkLine.match(/(https?:\/\/[^\s]+)/)
     links.push(link[0])
     lecName.push(topicName)
-    
+    mathThumbnails.push(thumbnailLink)
   }
+  
   //chapterName
   const commonPartRegex = /^[^\d]+/;
   const processedStrings = new Set();
@@ -249,10 +253,12 @@ fetch("math_link.txt").then(response => response.text().then(data =>{
     if((lecName[j].includes(chaptersName[i])))
     {
     const html = `
-      <div class="list" onclick="copyToClipboard(${j}, '${links[j]}')">
+      <div class="list">
+        <div onclick="copyToClipboard(${j}, '${links[j]}')">
           <span class="s-no">${k}</span>
           <span class="topic-name">${lecName[j]}</span>
-         <img src="copy.png">
+        </div>
+         <a href="player.html?videoLink=${links[j]}&thumbnail=${mathThumbnails[j]}">Watch</a>
 
       </div>`;
     lecList.insertAdjacentHTML("beforeend", html);
@@ -326,11 +332,13 @@ fetch("phy_link.txt").then(response => response.text().then(data => {
     const topic = split[0]
     const videoLinkLine = split[1].trim()
     const topicName = topic.split(":")[1]
+    const thumbnailLinkLine = split[2]
+    const thumbnailLink = thumbnailLinkLine.match(/(https?:\/\/[^\s]+)/)[0];
     const link= videoLinkLine.match(/(https?:\/\/[^\s]+)/)[0];
     phyLink.push(link)
     phylecName.push(topicName)
+    phyThumbnails.push(thumbnailLink)
   }
-
     const commonPartRegex = /^[^\d]+/;
     const processedStrings = new Set();
   
@@ -375,10 +383,12 @@ fetch("phy_link.txt").then(response => response.text().then(data => {
     if((phylecName[j].includes(phyChaptersName[i])))
     {
     const html = `
-      <div class="list" onclick="copyToClipboard(${j}, '${phyLink[j]}')" >
+      <div class="list" >
+        <div onclick="copyToClipboard(${j}, '${phyLink[j]}')" >
           <span class="s-no">${k}</span>
           <span class="topic-name">${phylecName[j]}</span>
-         <img src="copy.png">
+        </div>
+         <a href="player.html?videoLink=${phyLink[j]}&thumbnail=${phyThumbnails[j]}">Watch</a>
 
       </div>`;
     lecList.insertAdjacentHTML("beforeend", html);
@@ -408,12 +418,15 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
     
     const topic = split[0]
     const videoLinkLine = split[1].trim()
+    const thumbnailLine = split[2]
+    const imgLink = thumbnailLine.match(/(https?:\/\/[^\s]+)/)[0]
+    cheThumbnails.push(imgLink)
+   
     const topicName = topic.split(":")[1]
     const link= videoLinkLine.match(/(https?:\/\/[^\s]+)/)[0];
     cheLink.push(link)
     chelecName.push(topicName)
   }
-
     const commonPartRegex = /^[^\d]+/;
     const processedStrings = new Set();
   
@@ -458,11 +471,12 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
     if((chelecName[j].includes(cheChaptersName[i])))
     {
     const html = `
-      <div class="list" onclick="copyToClipboard(${j}, '${phyLink[j]}')" >
+      <div class="list">
+        <div onclick="copyToClipboard(${j}, '${cheLink[j]}')">
           <span class="s-no">${k}</span>
           <span class="topic-name">${chelecName[j]}</span>
-         <img src="copy.png">
-
+        </div>
+          <a href="player.html?videoLink=${links[j]}&thumbnail=${cheThumbnails[j]}">Watch</a>
       </div>`;
     lecList.insertAdjacentHTML("beforeend", html);
     j++

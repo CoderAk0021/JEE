@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+  <script type="text/javascript" src="cdn_modules/video.js@8.11.0/video.min.js"></script>
+  <title>Video Player</title>
+</head>
+<style>
+  body {
+    width: 100%;
+    height: 100vh;
+    background:black;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden !important;
+    gap:10px;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  select{
+    width:100%;
+    background:#353535;
+    padding:10px 5px;
+    border-radius:6px;
+    color:#fff;
+    outline:none;
+  }
+</style>
+<body>
+  
+
+<script>
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // Initialize Video.js
+    const urlParams = new URLSearchParams(window.location.search);
+    const videoLink = urlParams.get('videoLink');
+    const thumbnail = urlParams.get('thumbnail')
+   
+const index = videoLink.indexOf("/master.m3u8");
+var result = videoLink.substring(0, index);
+
+let link_240 = result + "/hls/240/main.m3u8"
+let link_360= result + "/hls/360/main.m3u8"
+let link_480 = result + "/hls/480/main.m3u8"
+let link_720 = result + "/hls/720/main.m3u8"
+
+    let html = `<div class="video-container">
+  <video
+    id="my-video"
+    class="video-js"
+    controls
+    preload="none"
+    width="340"
+    height="140"
+    data-setup='{
+      "poster": "${thumbnail}",
+      "disablePictureInPicture": true
+    }'
+  >
+    <source src="${link_240}">
+  </video>
+</div>
+
+<div class="quality-container">
+  <label for="qualitySelector">Select Quality:</label>
+  <select id="qualitySelector">
+    <option value="${link_240}">240p</option>
+    <option value="${link_360}">360p</option>
+    <option value="${link_480}">480p</option>
+    <option value="${link_720}">720p</option>
+  </select>
+</div>
+
+`
+document.querySelector("body").innerHTML=html
+
+    var player = videojs('my-video');
+    
+    // Quality selector dropdown
+    var qualitySelector = document.getElementById('qualitySelector');
+    qualitySelector.addEventListener('change', function () {
+      // Change the video source based on selected quality
+      player.src(qualitySelector.value);
+      // Automatically play after changing quality (optional)
+      player.play();
+    });
+  });
+</script>
+
+</body>
+</html>
