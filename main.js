@@ -12,6 +12,9 @@ let mathsBtn = document.querySelectorAll("#subjectProgress div")[1]
 let phyBtn = document.querySelectorAll("#subjectProgress div")[0]
 let cheBtn = document.querySelectorAll("#subjectProgress div")[2]
 
+
+
+
 phyBtn.style.backgroundColor="#A247FF"
 phyBtn.style.color="#fff"
 
@@ -62,6 +65,8 @@ let checked = 0
 let mathThumbnails = []
 let phyThumbnails = []
 let cheThumbnails = []
+
+
 // Get today's date
 const today = new Date();
 const months = [
@@ -258,7 +263,7 @@ fetch("math_link.txt").then(response => response.text().then(data =>{
           <span class="s-no">${k}</span>
           <span class="topic-name">${lecName[j]}</span>
         </div>
-         <a href="player.html?videoLink=${links[j]}&thumbnail=${mathThumbnails[j]}">Watch</a>
+          <a href="player.html?lecindex=${j}&subjIndex=${1}">Watch</a>
 
       </div>`;
     lecList.insertAdjacentHTML("beforeend", html);
@@ -388,7 +393,7 @@ fetch("phy_link.txt").then(response => response.text().then(data => {
           <span class="s-no">${k}</span>
           <span class="topic-name">${phylecName[j]}</span>
         </div>
-         <a href="player.html?videoLink=${phyLink[j]}&thumbnail=${phyThumbnails[j]}">Watch</a>
+          <a href="player.html?lecindex=${j}&subjIndex=${0}">Watch</a>
 
       </div>`;
     lecList.insertAdjacentHTML("beforeend", html);
@@ -476,7 +481,7 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
           <span class="s-no">${k}</span>
           <span class="topic-name">${chelecName[j]}</span>
         </div>
-          <a href="player.html?videoLink=${cheLink[j]}&thumbnail=${cheThumbnails[j]}">Watch</a>
+           <a href="player.html?lecindex=${j}&subjIndex=${2}">Watch</a>
       </div>`;
     lecList.insertAdjacentHTML("beforeend", html);
     j++
@@ -489,8 +494,9 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
 
   chapter.appendChild(lecList);
   chapterContainer[2].appendChild(chapter);
+   
+  
 }
-
 }))
 
 
@@ -543,3 +549,5 @@ const subjectChart = new Chart(ctx, {
     },
   },
 });
+
+

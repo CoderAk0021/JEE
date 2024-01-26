@@ -1,363 +1,363 @@
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Vector and Basic Maths 01 : Addition of Vectors || Vector Resolution || Vector Subtraction || No DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/76ec3848-c7ab-49e9-acf1-8140aaf02c8b/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/76ec3848-c7ab-49e9-acf1-8140aaf02c8b/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fe40d673-2d91-41d5-b0ed-f01bcfc3e454.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Vector and Basic Maths 02 : Dot Product || Cross Product || Differentiation
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0585d27e-8936-47be-a914-b8b7eed50250/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0585d27e-8936-47be-a914-b8b7eed50250/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b3a70d69-50a0-4297-98c2-239ceb3f4286.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Vector and Basic Maths 03 : Differentiation || Integration || Graphs
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/de89eba4-8419-463b-8f0b-a8dce92dada7/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/de89eba4-8419-463b-8f0b-a8dce92dada7/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d0994c10-7a25-4d33-8919-98e308cd4f50.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Motion In a Straight Line 01 : Distance & Displacement || Velocity & Speed || Acceleration || Uniformly Accelerated Motion
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/209492f5-a39e-444c-99bb-0aecf28572b1/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/209492f5-a39e-444c-99bb-0aecf28572b1/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1aecbace-7367-4441-93ba-6bc8aa03e93e.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Motion In a Straight Line 02 : Questions On Uniform Acceleration || Motion Under Gravity || Non-Uniform Acceleration
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cf1347d5-733c-4c33-b25c-a6f1fd0fb305/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cf1347d5-733c-4c33-b25c-a6f1fd0fb305/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8f61fdf2-5515-4f56-afe5-464bad2006c1.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Motion In a Straight Line 03 : Graphs in 1-D motion || Relative Motion in 1-D
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7c75c5d0-079d-4bb2-a3e3-fcb9c7fd5a2e/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7c75c5d0-079d-4bb2-a3e3-fcb9c7fd5a2e/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5385a659-16c8-4380-9e80-14238ac26094.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Motion In A Plane 01 : Motion in a plane || Projectile Motion
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/2ac57b8c-d976-4f1e-99b0-970bdac4cc7c/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/2ac57b8c-d976-4f1e-99b0-970bdac4cc7c/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5f8801e2-af9b-45cc-a5b5-9743d30bb4a6.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Motion In A Plane 02 : Horizontal Projectile || Projectile On An Inclined Plane
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/6f70c2cb-2dd1-4870-ac73-c07520522f1d/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/6f70c2cb-2dd1-4870-ac73-c07520522f1d/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3775b82f-4883-4b1f-95a6-af1cb6b73caa.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Motion In A Plane 03 : Relative Motion In 2-D || Rain-Man Problems || River-Man Problems
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0cd933ec-2149-4309-8e6d-477b5c649b27/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0cd933ec-2149-4309-8e6d-477b5c649b27/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e11a56bc-b9bc-4bbe-8479-a509161a1d06.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Motion In A Plane 04 : Minimum Distance Between Two Moving Particles || Condition For Collision || (NO DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/e3748805-77fd-49cc-9cdc-90933463a6a3/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/e3748805-77fd-49cc-9cdc-90933463a6a3/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/96b04204-62a4-4e68-8b04-486ffcfe3570.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 01 : Newton's 1st Law || Newton's 2nd Law || Newton's 3rd Law || Free Body Diagram
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f1acfb0b-cbdd-4cd7-9ee2-9bc3684dbbcc/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f1acfb0b-cbdd-4cd7-9ee2-9bc3684dbbcc/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3560226d-1580-4cf0-acc3-7818ff76d2d1.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 02 : Questions on FBD || Apparent Weight
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b0f95027-a00c-4acc-b97b-8591e0c06d15/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b0f95027-a00c-4acc-b97b-8591e0c06d15/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/06320eb1-2223-494c-b5fe-390934bbbd3d.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 03 : Rope Constraint || Wedge Constraint
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/db3ac971-33fe-464d-8e95-b25cb3dda331/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/db3ac971-33fe-464d-8e95-b25cb3dda331/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9a266464-212e-4e22-973b-4d24542b2961.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 04 : Pseudo Force || Spring Force || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/6950bf15-20dc-4212-9b2a-cef5e5d5e7a7/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/6950bf15-20dc-4212-9b2a-cef5e5d5e7a7/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2a7ea782-d57b-4377-b0f4-4fa9798c5f51.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Friction 01 : Friction || Direction of Friction || Static & Kinetic Friction
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cb43d07c-620a-4a31-9d94-c2ca9a37eb76/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cb43d07c-620a-4a31-9d94-c2ca9a37eb76/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a45f22f1-6d88-45fb-926c-3b840ef5d8ce.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Friction 02 : Angle of Friction || Angle of Repose
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/a6f33d75-cf58-48e6-9704-c46aa839f5d6/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/a6f33d75-cf58-48e6-9704-c46aa839f5d6/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/90b95a02-0699-44be-b6d5-65e5358c7632.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Friction 03 : Block on Block Problems || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/c198bb08-6dd2-4eea-952e-2750e7219a2c/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/c198bb08-6dd2-4eea-952e-2750e7219a2c/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/43a14077-9cd9-459c-9c67-6376e7db82cd.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Circular Motion 01 : Angular Velocity || Kinematics of Circular Motion || Circular Motion || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3e4df225-c58d-4e0d-a852-a01e998eeadc/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3e4df225-c58d-4e0d-a852-a01e998eeadc/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/83b3567b-1535-4437-9b04-5a3a9ee77784.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Circular Motion 02 : Dynamics of Circular Motion || Centrifugal Force || Banking of Roads
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/bcbe2827-9c40-4298-a501-69091a82e3a3/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/bcbe2827-9c40-4298-a501-69091a82e3a3/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/21bbbef7-2613-4f9f-9499-2a1e27d79f3b.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Work, Power & Energy 01 : Work Done || Work Done by Spring Force || Work-KE Theorem
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/83a74892-e0f4-409a-8f95-97e818b9da08/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/83a74892-e0f4-409a-8f95-97e818b9da08/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/45c5727f-3143-4dbc-9ce5-01c7d4fd546e.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Work, Power & Energy 02 : Potential Energy || Equilibrium || Power
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/282bba62-f3cb-4d88-b794-03c30eed5536/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/282bba62-f3cb-4d88-b794-03c30eed5536/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/79679557-7126-48c3-8541-06dbdb6c376e.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Work, Power & Energy 03 : Energy Conversion || Vertical Circular Motion
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5a1f3aca-ca02-40dd-942a-71048558e9f7/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5a1f3aca-ca02-40dd-942a-71048558e9f7/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/38714ae5-503f-41a1-880e-050a9e041a2c.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : System of Particles & COM 01 : Centre of Mass || Motion of COM || Impulse || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/57c7b05e-de50-4890-a4e9-e6b6784d766d/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/57c7b05e-de50-4890-a4e9-e6b6784d766d/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b497ff0d-89d2-4128-9f8b-0059b169b38f.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : System of Particles & COM 02 : Collision in 1-D || Collision in 2-D
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/85c39d97-246d-461c-b174-5a8b16b41f83/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/85c39d97-246d-461c-b174-5a8b16b41f83/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a2daf173-1f79-4248-8a0f-7bc7d102f53f.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Rotational Motion 01 : Moment of Inertia || Torque || Equilibrium || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5290b6e2-ce3b-4932-913c-4e018e5c4078/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5290b6e2-ce3b-4932-913c-4e018e5c4078/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5502a1e2-c055-4e9c-a416-87f8d6e528d4.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Rotational Motion 02 : Toppling || Angular Momentum || Newton's 2nd Law in Rotation
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7f2fa1df-cdd6-4d06-b865-bfdb406565e4/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7f2fa1df-cdd6-4d06-b865-bfdb406565e4/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0ce3abde-676a-4b43-b96d-dc5c321379f6.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Rotational Motion 03 : Pure Rolling || Direction of Friction in Rolling || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/1058b118-f323-42af-a18b-e174f9b92534/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/1058b118-f323-42af-a18b-e174f9b92534/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2fd9fa5a-30cc-45d0-bbaf-a2e2dd5d65c0.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Rotational Motion 04 : Rolling on an Inclined Plane || Collision in Rolling
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/31a75cbe-5d0b-40b2-9c4a-18992100d372/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/31a75cbe-5d0b-40b2-9c4a-18992100d372/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ea897472-65c2-4514-9a1d-33d9f27dabfa.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Mechanical Properties of Solids 01 : Stress-Strain || Young's Modulus || Bulk Modulus || Elastic Potential Energy || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cd338f2e-2953-4dda-9e8b-53c9952484cb/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cd338f2e-2953-4dda-9e8b-53c9952484cb/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f532bba5-97dc-4346-b6ad-24c488344003.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Mechanical Properties of Fluids 01 : Pressure || Variation of Pressure with Depth || Variation of Pressure with Acceleration || Pressure Measuring Devices || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/08386c16-c539-43bd-be60-c4d9184c14c2/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/08386c16-c539-43bd-be60-c4d9184c14c2/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f729c910-fc7a-499c-bf26-d08350510b59.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Mechanical Properties of Fluids 02 : Buoyant Force || Archimedes' Principle || Law of Floatation || Equation of Continuity || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3fdf8bb4-6a13-4d01-ad93-20962d246d4e/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3fdf8bb4-6a13-4d01-ad93-20962d246d4e/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/424be35b-e67b-4432-bc09-3226632957ab.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Mechanical Properties of Fluids 03 : Venturimeter || Viscosity || Stokes' Law || Terminal Velocity || Time for Emptying a Vessel || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/78be8945-9136-48f7-ae63-a5b3f8e692d0/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/78be8945-9136-48f7-ae63-a5b3f8e692d0/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/31d849c1-94f8-429b-bc11-82c419e381ff.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Mechanical Properties of Fluids 04 : Surface Tension || Excess Pressure || Angle of Contact || Capillarity
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f32a5a96-0a40-4257-ba72-51b436079d15/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f32a5a96-0a40-4257-ba72-51b436079d15/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e4514306-fe07-453b-9d51-1d2dd6c1e9b2.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Thermal Properties of Matter 01 : Scale of Temperature || Calorimetry || Thermal Expansion || Expansion of Liquid || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0a3880e8-3502-45a6-8f6c-469cb7a2592f/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0a3880e8-3502-45a6-8f6c-469cb7a2592f/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/18e6064b-2d81-45b2-9c5a-d87d08e9f990.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Thermal Properties of Matter 02 : Conduction || Convection || Radiation || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/72ddd05c-5729-4f5a-a4a8-d9ce90904fc2/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/72ddd05c-5729-4f5a-a4a8-d9ce90904fc2/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ac94a9c-5a14-45f0-8cf2-3e5f75bbea4f.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : KTG & Thermodynamics 01 : Kinetic Gas Equation || Different Speeds of Gas Molecules || Degree of Freedom || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5fcfa2d6-43d8-4743-b8cd-713ce2597b8d/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5fcfa2d6-43d8-4743-b8cd-713ce2597b8d/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7ec06a15-e450-4a44-89a0-de69fe19ef97.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : KTG & Thermodynamics 02 : Mean Free Path || Specific Heat Capacity || 1st Law of Thermodynamics
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/8ee669c8-36dd-42cc-ae13-e30e884479e7/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/8ee669c8-36dd-42cc-ae13-e30e884479e7/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e90f3fe6-b9b8-43cc-8e6b-2bef0cc182ef.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : KTG & Thermodynamics 03 : Questions on 1st Law of Thermodynamics || Carnot Cycle || Heat Engine || Refrigerator
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5f1cff26-2a8b-49c8-aaee-afb4938e36b4/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5f1cff26-2a8b-49c8-aaee-afb4938e36b4/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/02523e42-cb4b-4c87-ad88-f940cc3be41e.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Simple Harmonic Motion 01 : Equation of SHM || Velocity & Acceleration in SHM || Energy in SHM
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/00e0c051-317a-480d-9a34-bc5cede59fb0/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/00e0c051-317a-480d-9a34-bc5cede59fb0/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9cbc1439-01c6-40a7-911e-e5b2eeff9bf4.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Simple Harmonic Motion 02 : Time Period of SHM || Springs in Series & Parallel || Reduced Mass System || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3cb5d828-7c84-41b0-ba72-8f2bf4244d52/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3cb5d828-7c84-41b0-ba72-8f2bf4244d52/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ea8aa0ac-a111-4c4c-a07b-1f2c4aa14e58.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Simple Harmonic Motion 03 : Simple Pendulum || Compound Pendulum || Torsional Pendulum || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/15176f12-0f7a-4c44-88b3-e7ff89a4773e/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/15176f12-0f7a-4c44-88b3-e7ff89a4773e/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a4d38264-23f7-4274-936a-9ea2cc2a1fb5.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Waves 01 : Travelling Wave || Speed of Waves on String || Reflection & Transmission of Waves || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/a4cea820-c905-437b-b8e5-76b49bc1306f/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/a4cea820-c905-437b-b8e5-76b49bc1306f/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/441bd82f-81f2-4fe3-9ffd-1f515b3e1a52.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Waves 02 : Equation of Sound Waves || Speed of Sound Waves || Superposition & Interference
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/d7786ed5-a9cc-436d-86bd-b11a8c2e21d5/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/d7786ed5-a9cc-436d-86bd-b11a8c2e21d5/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/818b25a6-4127-4432-bca9-6d8cc8f89fde.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Waves 03 : Standing Waves || Organ Pipes || Resonance Column Method || Beats
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ad5fd999-64f2-432d-b110-fa0f0d24492f/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ad5fd999-64f2-432d-b110-fa0f0d24492f/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c47f911b-9bf4-40f1-9bd5-798d5de1f2ad.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Charges & Field 01 : Properties of Charge || Methods of Charging || Coulomb's Law || Effect of Dielectric || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/370c53e1-3b59-46bc-a767-276c3d6b8469/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/370c53e1-3b59-46bc-a767-276c3d6b8469/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/84a4d72f-75e9-4819-9b26-c0e94f4e61c3.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Charges & Field 02 : Electric Field || Field Due to Different Configurations || Electric Flux || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/4d25a964-b787-4be1-a02e-1e2a440c4a69/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/4d25a964-b787-4be1-a02e-1e2a440c4a69/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fb6732f3-9829-4cab-a8b1-1c5d34a9d0ea.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Charges & Field 03 : Field Due to a Cylinder || Field Due to a Shell || Field Due to a Solid Sphere || Conductors
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/4b33094b-c30c-4a73-933c-8a2ac4276a93/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/4b33094b-c30c-4a73-933c-8a2ac4276a93/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/25e31c0f-9c39-4066-a158-bf7e8d6fabc4.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Charges & Field 04 : System of Parallel Plates || Electric Dipole || Dipole Placed in a Uniform Electric Field
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f756d2ab-9432-402f-b463-8d11718e0678/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f756d2ab-9432-402f-b463-8d11718e0678/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7ed72c45-d2c2-4f74-a3cc-df1bb843b842.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Potential & Capacitance 01 : Potential Energy || Electric Field Energy Density || Potential Energy for a Shell || (No DPP) || Extra Lecture
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/47a37eac-4ac6-4b64-a2d3-4d484e87f52f/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/47a37eac-4ac6-4b64-a2d3-4d484e87f52f/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4bc13bdb-db1d-46cf-b534-9bcba6bef884.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Potential & Capacitance 02 : Equipotential Surface || Relation Between Field & Potential || Potential Due to a Ring, Rod, Shell, Sphere || Potential Due to a Dipole || NO DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/975c2169-a844-4bc6-b1df-5f69f318a767/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/975c2169-a844-4bc6-b1df-5f69f318a767/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4167f275-98ee-4368-8e1f-7f6c01819551.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Potential & Capacitance 03 : Parallel Plate Capacitor || Series & Parallel || Short Circuiting
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/9239dc63-8478-4df5-936a-221d290de899/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/9239dc63-8478-4df5-936a-221d290de899/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f6eabdf1-ad23-4b56-b1ff-59b60319f56b.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Potential & Capacitance 04 : Kirchoff's Laws || Wheatstone Network || Circuit Reduction || Energy Stored in Capacitor
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/88db7ca4-4a4e-4c08-8e60-4874ecd5234e/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/88db7ca4-4a4e-4c08-8e60-4874ecd5234e/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/21a23f70-e785-43e5-bee0-02386eeff646.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Potential & Capacitance 05 : Dielectric || Parallel Plate Capacitor with Dielectric || Effect of Dielectric
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/2a16b5d0-a7b5-408f-8d89-aa23b09b7aad/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/2a16b5d0-a7b5-408f-8d89-aa23b09b7aad/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/95c9b084-175d-4f69-82f4-c5540854ee3e.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Gravitation 01 : Law of Gravitation || Gravitational Field || Gravitational Potential || Gravitational Potential Energy
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/47be57fa-234b-43d5-9c12-1bb009018b74/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/47be57fa-234b-43d5-9c12-1bb009018b74/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6ce54583-6065-4d1c-965c-86595062e8b2.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Gravitation 02 : Variation in G || Energy Consideration in Planetary Motion || Escape Velocity || Kepler's Laws
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/1d8d99c2-8572-49e9-9521-3738d462cad6/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/1d8d99c2-8572-49e9-9521-3738d462cad6/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/49a8f5c2-08fe-4da4-a874-3cd64dd85f78.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Current 01 : Electric Current, Current Density || Resistence & Resistivity || Drift Speed || NO DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/1e165d87-1936-43bb-9a15-fddd579e6abc/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/1e165d87-1936-43bb-9a15-fddd579e6abc/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ffb661a1-4549-4674-9a65-0468f722c30a.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Current 02 : Resistence in Series Parallel || Power in Electrical Circuits || Kirchoff's Laws || Internal Resistence
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/bc05b42d-7e2f-4ead-be48-2274eb6e1226/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/bc05b42d-7e2f-4ead-be48-2274eb6e1226/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8de1f642-b8b8-4fa9-af3b-28d7819b04b9.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Current 03 : Grouping of Batteries || Wheatstone || Circuit Reduction || Ammeter, Voltmeter
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f340423f-7cb3-42ba-962d-3cd5b2d975c8/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f340423f-7cb3-42ba-962d-3cd5b2d975c8/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b8a98db8-d90b-44d6-bda1-00dac976cd66.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electric Current 04 : Potentiometer || Charging of RC Circuit || Discharging of RC Circuit
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/e14c44d0-6a1d-47da-8adf-c168e81f1a50/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/e14c44d0-6a1d-47da-8adf-c168e81f1a50/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0a32b64b-4787-42f8-94aa-661af919c1dd.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Moving Charges & Magnetism 01 : Magnetic Field Due to Moving Charges || Biot Savart Law || Magnetic Field Due to Straight Wire || Magnetic Field Due to Circular Coil || NO DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ee0c821b-b3c8-4fb1-9adc-f3e386644c4f/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ee0c821b-b3c8-4fb1-9adc-f3e386644c4f/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/da1d1613-8359-47d0-ac6b-aabc8dedb8a0.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Moving Charges & Magnetism 02 : Ampere's Law || Magnetic Field Due to Cylinder, Sheet || Magnetic Field Due to Solenoid, Toroid || Motion of a Charged Particle in Uniform Magnetic Field
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3320d1d0-a594-4ff2-9139-595ed721215f/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3320d1d0-a594-4ff2-9139-595ed721215f/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2535b70f-1cb5-4d07-be6c-2fd2a1648c2c.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Moving Charges & Magnetism 03 : Motion of Charged Particle || Charge Particle in Both E & B || Force on a Current Carrying Wire
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/00328df8-4bb8-46e2-a287-247bf80d2be8/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/00328df8-4bb8-46e2-a287-247bf80d2be8/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a30deea2-f13c-4299-a792-d4b49ada751d.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Moving Charges & Magnetism 04 : Forces Between Two Current Carrying Parallel Wires || Torque on a Loop in a Uniform Magnetic Field
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/782b71da-35ae-49c5-8cde-92260efc27aa/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/782b71da-35ae-49c5-8cde-92260efc27aa/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/08eb45a6-bd03-44cd-844e-fd85d88323dc.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Magnetism & Matter 01 : Pole & Pole Strength, Bar Magnet || Magnetic Field Lines || Magnetic Field Due to Bar Magnet || Torque on Bar Magnet & Time Period of Oscillation
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ae3cd4c0-abda-456b-90d9-9e8c6700dfef/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ae3cd4c0-abda-456b-90d9-9e8c6700dfef/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/06ddce6e-9dd8-4e02-b4cc-0a671b26e9ee.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Magnetism & Matter 02 : Moving Coil Galvanometer || Intensity of Magnetization || Paramagnetic, Ferromagnetic, Diamagnetic || Susceptibility, Permeability || NO DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0f098c73-e3de-49f4-9f08-95cdaee34d77/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0f098c73-e3de-49f4-9f08-95cdaee34d77/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/af806b8a-e640-4137-b0fd-73fba5a7ad27.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electromagnetic Induction 01 : Magnetic Flux || Lenz's Law || Faraday's Law of Electromagnetic Induction
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/904063ac-64b8-4b6a-823f-40467337aaf8/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/904063ac-64b8-4b6a-823f-40467337aaf8/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8c26c2b4-1003-488b-b701-38acda1fda05.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electromagnetic Induction 02 : Motional Emf || Motional Emf in Rotating Rod || Motional Emf when Conductor isn't Straight
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/679e4aa0-7e29-40c1-a682-41ea59ab8b3c/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/679e4aa0-7e29-40c1-a682-41ea59ab8b3c/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/995f7318-0c15-438c-842c-4dc2bb7186ea.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electromagnetic Induction 03 : Induced Electric Field || Self Induction || Self Inductance of a Long Solenoid
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/fadd5f8e-a23b-426d-b408-fecf70147888/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/fadd5f8e-a23b-426d-b408-fecf70147888/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3ba4de6f-9da6-4e32-a2fe-bf478cb009dd.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electromagnetic Induction 04 : Energy Stored in Inductor || Mutual Induction || Inductors in Series & Parallel || L-R Circuit || NO DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/06b36dfc-5ab7-4e61-8d91-2159b87f56ea/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/06b36dfc-5ab7-4e61-8d91-2159b87f56ea/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/22b97eb1-29dc-43bd-b5ff-69377ca95a7d.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Alternating Current 01 : LC Oscillations || AC Generator || Average Value & RMS Value of AC || NO DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0008ad78-6137-4898-bcd2-01d2be8cd08d/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/0008ad78-6137-4898-bcd2-01d2be8cd08d/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0d393900-c09d-4e8d-874b-11501f083a4e.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Alternating Current 02 : AC Circuit Containing Only Resistor, Capacitor, Inductor || Vector Method || Resonance || Parallel AC Circuit
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5e7ddbc9-c62d-4269-adc0-0c1f4d454da8/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5e7ddbc9-c62d-4269-adc0-0c1f4d454da8/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4269563f-5722-4faf-ae44-90b9d7095dd1.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Alternating Current 03 : Q Factor || Power in AC Circuit || Choke Coil || Transformer
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3d7e03b6-ca6d-4b91-9c2a-57ae56f94205/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3d7e03b6-ca6d-4b91-9c2a-57ae56f94205/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5752b076-21d8-4fea-a128-b6266b9e79e6.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Electromagnetic Waves 01 : Displacement Current || EM Waves || Energy Density || Electromagnetic Spectrum
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3af1b0c4-3f22-4596-8fa8-440239ee980e/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3af1b0c4-3f22-4596-8fa8-440239ee980e/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4c45f4c5-8853-42d4-9833-dfbbc227f65e.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Ray Optics 01 : Reflection of Light || Image Formation By Plane Mirror || Velocity of Image Due to Plane Mirror || Spherical Mirrors || NO DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cb80d091-6d48-4729-a511-f5deefbb6bf2/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/cb80d091-6d48-4729-a511-f5deefbb6bf2/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9bd51a14-f7ab-4f8d-a75a-84e787b46dbf.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Ray Optics 02 : Velocity of Image WRT Spherical Mirror || Refraction of Light, Apparent Depth || Refraction Across a Slab || TIR
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/31329691-b20b-440c-8a34-f7df11a73a31/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/31329691-b20b-440c-8a34-f7df11a73a31/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1ce6dec5-da11-4208-ae6c-0da26d58ba29.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Ray Optics 03 : Prism || Small Angled Prisms || Dispersion of Light
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b3304d3c-6dcf-4bed-9e60-cabe63610684/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b3304d3c-6dcf-4bed-9e60-cabe63610684/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0f5e2d12-974a-42fb-ba7a-e882b89524ef.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Ray Optics 04 : Refraction at Spherical Surface || Lens || Lens Maker's Formula
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/51b9d77c-6b2a-4d24-97c3-9ca1b4d4ac5a/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/51b9d77c-6b2a-4d24-97c3-9ca1b4d4ac5a/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2c943be4-e7d6-42d0-8d81-d8b681ec0fb4.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Ray Optics 05 : Thin Lenses in Contact || Silvered Lens || Lens Displacement Method
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/99f6f384-45e2-4984-9db7-5f1c0b02a9c1/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/99f6f384-45e2-4984-9db7-5f1c0b02a9c1/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/41df0869-8676-4062-91a6-a908ebc6b1f4.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Ray Optics 06 : Eye, Defects of Vision || Simple Microscope || Compound Microscope
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/00f7deb3-8ac9-4d2a-88b2-5489806426de/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/00f7deb3-8ac9-4d2a-88b2-5489806426de/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/90e83e08-1304-424f-a496-b4a3ddbc9cc3.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Wave Optics 01 : Huygens Principle || Refraction & Reflection Using Huygens Principle || Optical Path || (No DPP)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/75930923-46b2-419e-9c7f-3b795b39aaf1/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/75930923-46b2-419e-9c7f-3b795b39aaf1/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7c5fb657-5252-4930-b222-cbfc42b63372.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Wave Optics 02 : YDSE || YDSE in a Liquid || YDSE with Thin Film in front of Slit
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/fa816aed-12f5-40bd-b64c-04779e0d354c/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/fa816aed-12f5-40bd-b64c-04779e0d354c/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/96a39ab4-be4a-4f4a-9fbd-529bd58cecc5.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Wave Optics 03 : Interference in Thin Films || Diffraction of Light || Diffraction through Single Slit
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7bfdb197-e17d-4583-82dc-259098caea09/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7bfdb197-e17d-4583-82dc-259098caea09/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fe104510-8125-4634-a8bf-261746738921.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Wave Optics 04 : Fresnel Distance || Resolving Power || Polarization
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/6aac5eea-e9e4-4589-a329-1eb8ee882adb/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/6aac5eea-e9e4-4589-a329-1eb8ee882adb/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ec16dfc4-c4cf-491b-8872-6356794d3484.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Dual Nature of Radiation & Matter 01 : Photons || Force due to Radiation || Photoelectric Effect || No DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3d7a23ee-cd84-4113-af39-327693949a31/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/3d7a23ee-cd84-4113-af39-327693949a31/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/94e3abb6-1b3f-4081-877d-a000c52f9599.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Dual Nature of Radiation & Matter 02 : Questions on Photoelectric Effect || Matter Waves
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b16b8b55-f103-4fe1-84c1-9617ba00af23/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b16b8b55-f103-4fe1-84c1-9617ba00af23/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fca42c33-c5aa-4df8-972c-a384fda564b4.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Atoms 01 : Bohr's Model || Energy Diagram || H-Like Atom
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/58a38499-548b-4e14-9b61-c370f5a12bbc/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/58a38499-548b-4e14-9b61-c370f5a12bbc/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0d692a36-a9fa-4476-bd53-66d7aee74089.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Atoms 02 : Production of X-Rays || Continuous & Characteristic X-Rays || Moseley‘s Law
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ec9712ea-bc08-4c2f-835d-970b566db5e4/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/ec9712ea-bc08-4c2f-835d-970b566db5e4/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d62482de-8876-444c-b820-336d0e051cef.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Nuclei 01 : Size of Nucleus || Mass Defect || Binding Energy, Nuclear Force || Nuclear Fission & Nuclear Fusion
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7fd17dd0-c037-4304-b646-fbe04482c2e1/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7fd17dd0-c037-4304-b646-fbe04482c2e1/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f1df5f04-64b9-4a42-a2d1-98162f0284b3.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Semiconductors 01 : Energy Bands || Intrinsic Semiconductors, Extrinsic Semiconductors || Semiconductors Diode, p-n Junction || p-n Junction Under Forward Bias & Reverse Bias || No DPP
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/2eca826b-f56a-4402-9ccd-373f2598794e/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/2eca826b-f56a-4402-9ccd-373f2598794e/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3fbee574-53f1-4b26-ab22-2b7f5477d1a6.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Semiconductors 02 : P-n Junction Diode as a Rectifier || Zener Diode || Photodiode || LED, Logic Gates
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/aa271b7e-1a19-432c-ac44-1bcade52bd78/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/aa271b7e-1a19-432c-ac44-1bcade52bd78/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5e049983-0f81-4c2d-a9ad-82d864376e4c.png
 
 ➼ 𝗧𝗼𝗽𝗶𝗰 : Units & Dimension 01 : Dimensions || Dimensional Analysis || Propagation of Errors || Significant Figures || No DPP || (Live)
-➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b5b12062-bf1a-4cdb-85b2-aa2a0f119a7a/master.m3u8
+➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b5b12062-bf1a-4cdb-85b2-aa2a0f119a7a/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4a0eb7f0-222c-4919-b147-b285f2a460db.png
