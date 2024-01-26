@@ -476,7 +476,7 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
           <span class="s-no">${k}</span>
           <span class="topic-name">${chelecName[j]}</span>
         </div>
-          <a href="player.html?videoLink=${links[j]}&thumbnail=${cheThumbnails[j]}">Watch</a>
+          <a href="player.html?videoLink=${cheLink[j]}&thumbnail=${cheThumbnails[j]}">Watch</a>
       </div>`;
     lecList.insertAdjacentHTML("beforeend", html);
     j++
