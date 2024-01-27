@@ -19,7 +19,7 @@ phyBtn.style.backgroundColor="#A247FF"
 phyBtn.style.color="#fff"
 
 
-let goals =["Revise Quadratic Equation","Solve DPP Quadratic Equation","Make Short notes of Vectors","Complete Redox Reaction","Learn and do 5 pyqs from each completed chapter"]
+let goals =["Revise Redox Reaction","Solve DPP Redox Reaction","Make Short notes of Mole Concept","Complete Motion in a plane","Learn and do 3 pyqs from each completed chapter"]
 
 const physicsData = {
   total: 31,
@@ -28,7 +28,7 @@ const physicsData = {
 
 const chemistryData = {
   total: 24,
-  completed: 1,
+  completed: 2,
 };
 
 const mathsData = {
