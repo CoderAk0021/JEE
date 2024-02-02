@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resource</title>
+  <style>
+    *{
+      box-sizing:border-box;
+      margin:0;
+      padding:0;
+    }
+    body{
+      width:100%;
+      max-height:700px;
+      background:white;
+      overflow: scroll !important;
+    }
+    .container{
+      position:absolute;
+      top:70px;
+      
+      display:flex;
+      flex-direction:column;
+      gap:15px;
+      width:100%;
+      max-height:600px;
+      overflow: scroll;
+      padding:15px;
+    }
+    .chapters{
+      display:flex;
+      align-items: center;
+      justify-content: space-between;
+      height:50px !important;
+      width:100%;
+      padding:35px 10px;
+      color:black;
+      font-weight:500;
+      background:white;
+      border-radius:5px;
+      box-shadow: 0px 0px 10px #E7E7E7;
+      font-size:13.5px;
+    }
+    .header{
+      position:fixed;
+      top:0;
+      left:0;
+      z-index:1;
+      display:flex;
+      justify-content: left;
+      gap:10px;
+      width:100%;
+      align-items: center;
+      height:70px;
+      padding:0 10px;
+      box-shadow:0px 0px 20px #E7E7E7;
+    }
+    .chapters img{
+      width:15px!important;
+    }
+    .icon img{
+      width:30px;
+    }
+    .subName{
+      font-weight:600;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <span class="icon">
+      <img srcset="" src="/icons/left.png" alt="">
+    </span>
+    <p class="subName"></p>
+  </div>
+  <div class="container">
+    
+  </div>
+    <script src="chapter.js"></script>
+</body>
+  
+</html>

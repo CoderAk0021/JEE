@@ -207,7 +207,9 @@ fetch("chem_link.txt").then(response => response.text().then(data =>{
    document.querySelector("body").innerHTML=mainHtml
      var player = videojs('my-video');
    
-   
+   player.on('error', function(event) {
+     console.error('Video.js error:', event);
+   });
      // Quality selector dropdown
      var qualitySelector = document.getElementById('qualitySelector');
      qualitySelector.addEventListener('change', function() {

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=360, initial-scale=1">
+  <title>physics</title>
+  <link rel="stylesheet" href="/subject.css">
+</head>
+<style type="text/css" media="all">
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: 0.2s cubic-bezier(0.47, 0, 0.745, 0.715);
+}
+  .tabContainer{
+  width:95%;
+  border-radius:5px;
+  position: absolute;
+  opacity:1;
+  left:10px;
+  top:80px;
+  overflow: hidden;
+}
+.tabContainer header{
+  display:grid;
+  grid-template-columns: auto auto auto auto;
+  width:100%;
+  position: relative;
+  padding:0px 10px;
+  
+}
+.tabContainer .border{
+  position: absolute;
+  height:4px;
+  width:75px;
+  background:#5462FF;
+  bottom:0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+.tabContainer header span{
+  padding:15px 5px;
+  text-align: center;
+  font-weight:400;
+  color:#B2B2B2;
+  font-size:14px;
+  pointer-events: cursor;
+}
+.tabContainer header span:active{
+  background:#0015FF08;
+  
+}
+.tabContainer header span.active{
+  color:#5462FF;
+  font-weight:490;
+}
+main{
+  padding:10px;
+ 
+  display:grid;
+  grid-template-columns: 100% 100% 100% 100%;
+  width:100%;
+  overflow:hidden;
+  scroll-behavior: smooth;
+}
+main .lecture-box,.dpp-box{
+  width:100%;
+  display:flex;
+  flex-direction: column;
+  gap:10px;
+  font-size:20px;
+  color:#B2B2B2B5;
+  padding:15px;
+  max-height:550px !important;
+  overflow: scroll;
+}
+.lecture-box .lecture {
+  width:100%;
+  padding:10px;
+  border-radius:10px;
+  color:black;
+  font-weight:500;
+  background:white;
+  border-radius:5px;
+  box-shadow: 0px 0px 10px #E7E7E7;
+  font-size:13.5px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: left !important;
+  gap:5px;
+  
+}
+.dpp{
+  width:100%;
+  padding:25px 10px;
+  border-radius:10px;
+  color:black;
+  font-weight:500;
+  background:white;
+  border-radius:5px;
+  box-shadow: 0px 0px 10px #E7E7E7;
+  font-size:11.5px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dpp img{
+  width:20px;
+}
+.lecture img{
+  height:65px;
+}
+ .header{
+      position:fixed;
+      top:0;
+      left:0;
+      z-index:1;
+      display:flex;
+      justify-content: left;
+      gap:10px;
+      width:100%;
+      align-items: center;
+      height:70px;
+      padding:0 10px;
+      box-shadow:0px 0px 20px #E7E7E7;
+    }
+    .chapters img{
+      width:15px!important;
+    }
+    .icon img{
+      width:30px;
+    }
+    .subName{
+      font-weight:600;
+    }
+    #message {
+      position: fixed;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 8px 12px;
+      background-color: green;
+      color: #fff;
+      font-size: 14px;
+      line-height: 1.4;
+      text-align: center;
+      border-radius: 3px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      z-index: 9999;
+      opacity: 0;
+      transition: opacity 0.3s ease-in-out;
+    }
+    
+    #message.show {
+      opacity: 1;
+    }
+</style>
+<body>
+    <div class="header">
+      <span class="icon">
+        <img srcset="" src="icons/left.png" alt="">
+      </span>
+      <p class="subName"></p>
+    </div>
+   <div class="tabContainer">
+     <header>
+       <span class="active">Lectures</span>
+       <span>DPP</span>
+       <div class="border"></div>
+     </header>
+     <main>
+       <div class="lecture-box"></div>
+       <div class="dpp-box"></div>
+     </main>
+   </div>
+   <div id="message"></div>
+   <script>
+     let btns = document.querySelectorAll("header span")
+
+let tabContainers = document.querySelectorAll("main div")
+let border = document.querySelector(".border")
+
+
+
+
+
+
+btns.forEach(btn => {
+  btn.addEventListener('click', (index) => {
+    // Remove active class from all tabs
+    btns.forEach(btn => {
+      btn.classList.remove('active');
+    });
+
+    // Add active class to clicked tab
+    btn.classList.add('active');
+    // Move border to clicked tab
+    const tabWidth = btn.offsetWidth;
+    const tabLeft = btn.offsetLeft;
+    border.style.transform = `translateX(${tabLeft}px)`;
+    border.style.width = `${tabWidth}px`;
+  });
+});
+
+
+window.addEventListener("load",()=>{
+  const tabWidth = btns[0].offsetWidth;
+  const tabLeft = btns[0].offsetLeft;
+  border.style.transform = `translateX(${tabLeft}px)`;
+  border.style.width = `${tabWidth}px`;
+  document.querySelector(".tabContainer").style.opacity="1"
+})
+
+
+
+btns[0].addEventListener("click",()=>{
+  document.querySelector("main").scrollLeft=0
+})
+
+btns[1].addEventListener("click", () => {
+document.querySelector("main").scrollLeft= tabContainers[1].offsetWidth * 1
+})
+
+
+   </script>
+   <script src="chapterContent.js"></script>
+</body>
+</html>
