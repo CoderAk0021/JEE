@@ -58,13 +58,13 @@ fetch(subjectToFetch).then(response => response.text().then(data => {
     let html = `
     <div onclick="chapterContent('${chapterName}',${resource})" class="chapters">
     <p class="chapName">${chapterName}</p>
-    <span class="icon"><img src="/icons/right-arrow.png" width="20px"></span>
+    <span class="icon"><img src="icons/right-arrow.png" width="20px"></span>
     </div>`;
     document.querySelector(".container").insertAdjacentHTML("beforeend", html);
   });
 
   chapterContent = function (index, subId) {
-     window.location.href=`/chapterContent.html?index=${index}&subId=${subId}`
+     window.location.href=`chapterContent.html?index=${index}&subId=${subId}`
   };
 
 }));
