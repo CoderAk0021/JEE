@@ -3,6 +3,7 @@
   margin:0;
   padding:0;
   font-family:ubuntu;
+  pointer-events: cursor;
 }
 body{
   width:100%;

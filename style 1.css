@@ -2,7 +2,8 @@
   box-sizing:border-box;
   margin:0;
   padding:0;
-  font-style: roboto;
+  font-family:ubuntu;
+  pointer-events: cursor;
 }
 body{
   width:100%;

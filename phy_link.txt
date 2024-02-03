@@ -38,19 +38,19 @@
 ➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/e3748805-77fd-49cc-9cdc-90933463a6a3/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/96b04204-62a4-4e68-8b04-486ffcfe3570.png
 
-➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 01 : Newton's 1st Law || Newton's 2nd Law || Newton's 3rd Law || Free Body Diagram
+➼ 𝗧𝗼𝗽𝗶𝗰 : Newton Law Of Motion 01 : Newton 1st Law || Newton 2nd Law || Newton 3rd Law || Free Body Diagram
 ➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/f1acfb0b-cbdd-4cd7-9ee2-9bc3684dbbcc/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3560226d-1580-4cf0-acc3-7818ff76d2d1.png
 
-➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 02 : Questions on FBD || Apparent Weight
+➼ 𝗧𝗼𝗽𝗶𝗰 : Newton Law Of Motion 02 : Questions on FBD || Apparent Weight
 ➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/b0f95027-a00c-4acc-b97b-8591e0c06d15/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/06320eb1-2223-494c-b5fe-390934bbbd3d.png
 
-➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 03 : Rope Constraint || Wedge Constraint
+➼ 𝗧𝗼𝗽𝗶𝗰 : Newton Law Of Motion 03 : Rope Constraint || Wedge Constraint
 ➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/db3ac971-33fe-464d-8e95-b25cb3dda331/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9a266464-212e-4e22-973b-4d24542b2961.png
 
-➼ 𝗧𝗼𝗽𝗶𝗰 : Newton's Law Of Motion 04 : Pseudo Force || Spring Force || (No DPP)
+➼ 𝗧𝗼𝗽𝗶𝗰 : Newton Law Of Motion 04 : Pseudo Force || Spring Force || (No DPP)
 ➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/6950bf15-20dc-4212-9b2a-cef5e5d5e7a7/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2a7ea782-d57b-4377-b0f4-4fa9798c5f51.png
 
@@ -98,7 +98,7 @@
 ➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/5290b6e2-ce3b-4932-913c-4e018e5c4078/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5502a1e2-c055-4e9c-a416-87f8d6e528d4.png
 
-➼ 𝗧𝗼𝗽𝗶𝗰 : Rotational Motion 02 : Toppling || Angular Momentum || Newton's 2nd Law in Rotation
+➼ 𝗧𝗼𝗽𝗶𝗰 : Rotational Motion 02 : Toppling || Angular Momentum || Newton 2nd Law in Rotation
 ➼ 𝗩𝗶𝗱𝗲𝗼 : https://d26g5bnklkwsh4.cloudfront.net/7f2fa1df-cdd6-4d06-b865-bfdb406565e4/hls/240/main.m3u8
 ➼ 𝗜𝗺𝗮𝗴𝗲 : https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0ce3abde-676a-4b43-b96d-dc5c321379f6.png
 
