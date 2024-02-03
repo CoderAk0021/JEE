@@ -30,52 +30,33 @@ const mathsData = {
 };
 
 
-document.getElementById('physicsCompleted').innerText = physicsData.completed;
-document.getElementById('physicsTotal').innerText = physicsData.total;
-document.getElementById('mathsCompleted').innerText = mathsData.completed;
-document.getElementById('mathsTotal').innerText = mathsData.total;
-document.getElementById('chemistryCompleted').innerText = chemistryData.completed;
-document.getElementById('chemistryTotal').innerText = chemistryData.total;
 
-
-
-
-const ctx = document.getElementById('subjectChart').getContext('2d');
 let goalTable = document.querySelector("table")
-const subjectChart = new Chart(ctx, {
-  type: 'bar',
-  data: {
-    labels: ['Phy', 'Che', 'Math'],
-    datasets: [{
-      label: 'Completed',
-      data: [physicsData.completed, chemistryData.completed, mathsData.completed],
-      backgroundColor: ['#A247FF', '#A247FF', '#A247FF'], // Green color for completed chapters
-        }, {
-      label: 'Remaining',
-      data: [
-                physicsData.total - physicsData.completed,
-                chemistryData.total - chemistryData.completed,
-                mathsData.total - mathsData.completed,
-            ],
-      backgroundColor: ['#fff', '#fff', '#fff'], // Yellow color for remaining chapters
-        }],
-  },
-  options: {
-    responsive: false,
-    maintainAspectRatio: false,
-    legend: {
-      display: false,
-      position: 'bottom',
+
+document.addEventListener('DOMContentLoaded', function() {
+  const chart = Highcharts.chart('container', {
+    chart: {
+      type: 'bar'
     },
-    scales: {
-      x: {
-        stacked: true,
-      },
-      y: {
-        stacked: true,
-      },
+    title: {
+      text: 'Progress Report'
     },
-  },
+    xAxis: {
+      categories: ['Physics', 'Chemistry', 'Maths']
+    },
+    yAxis: {
+      title: {
+        text: 'Chapters'
+      }
+    },
+    series: [{
+      name: 'completed',
+      data: [physicsData.completed, chemistryData.completed, mathsData.completed]
+                }, {
+      name: 'Total Chapters',
+      data: [physicsData.total, chemistryData.total, mathsData.total]
+                }]
+  });
 });
 
 
