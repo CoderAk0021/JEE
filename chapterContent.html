@@ -16,6 +16,15 @@
   font-family:ubuntu;
   pointer-events: cursor;
 }
+.basic-protect * {
+  /* Selection */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
   .tabContainer{
   width:95%;
   border-radius:5px;
@@ -78,6 +87,10 @@ main .lecture-box,.dpp-box{
   padding:15px;
   max-height:550px !important;
   overflow: scroll;
+  
+}
+.lecture-box::-webkit-scrollbar{
+  display: none;
 }
 .lecture-box .lecture {
   width:100%;
