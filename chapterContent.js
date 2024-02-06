@@ -44,7 +44,7 @@ fetch(subjectToFetch).then(response => response.text().then(data => {
   lecNames.forEach((name,index) =>{
     if(name.includes(chapterName))
     {
-      let html = `<div onclick="copyToClipboard('${links[index]}')" class="lecture">
+      let html = `<div onclick="copyToClipboard('${links[index]}',${index})" class="lecture">
       
       <img src="${thumbnails[index]}">
       <p>${name}</p>
@@ -82,31 +82,8 @@ function viewPdf(url){
 }
 
 
-function copyToClipboard( link) {
-  // Create a temporary textarea element
-  const textarea = document.createElement('textarea');
-
-  // Set the value of the textarea to the link
-  textarea.value = link;
-
-  // Append the textarea to the document
-  document.body.appendChild(textarea);
-
-  // Select the text in the textarea
-  textarea.select();
-
-  // Copy the selected text to the clipboard
-  document.execCommand('copy');
-
-  // Remove the temporary textarea
-  document.body.removeChild(textarea);
-
-  // Optionally, you can provide feedback to the user (e.g., display a tooltip)
-  modal.classList.add('show');
-  modal.innerHTML = "COPIED :)"
-  // Set a timer to close the modal after 2 seconds
-  setTimeout(function() {
-    modal.classList.remove('show');
-  }, 2000);
+function copyToClipboard( link,index) {
+  let title = lecNames[index];
   
+  window.open(`intent:${link}#Intent;package=com.mxtech.videoplayer.pro;S.title=${encodeURIComponent(title)};end`, '_blank');
 }
